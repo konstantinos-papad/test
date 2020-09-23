@@ -3,4 +3,4 @@ implicit none
 
 write(*,*) "Hello"
 
-end testing_main
+end program
